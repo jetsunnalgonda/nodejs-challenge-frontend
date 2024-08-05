@@ -21,3 +21,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Other files
+certificate.crt
+private.key
+/uploads
+.DS_Store
